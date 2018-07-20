@@ -4,5 +4,6 @@ In your GOPATH:
 ```
 go get -u src/github.com/liufuyang/go-learning/...
 
-go run src/github.com/liufuyang/go-learning/restapi/main.go
+cd src/github.com/liufuyang/go-learning/restapi
+go run main.go
 ```
