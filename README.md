@@ -1,7 +1,8 @@
 # go-learning
 
+In your GOPATH:
 ```
-go install  ./...
+go get -u src/github.com/liufuyang/go-learning/...
 
-go run src/github.com/liufuyang/restapi/main.go
+go run src/github.com/liufuyang/go-learning/restapi/main.go
 ```
